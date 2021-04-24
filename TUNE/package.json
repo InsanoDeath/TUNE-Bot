@@ -1,0 +1,33 @@
+{
+  "name": "indusic",
+  "version": "0.0.1",
+  "description": "Premium Music bot",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "array-move": "^3.0.1",
+    "cpu-stat": "^2.0.1",
+    "discord-ytdl-core": "^5.0.2",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.12",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.3.0",
+    "https": "^1.0.0",
+    "lyrics-finder": "^21.7.0",
+    "moment": "^2.29.1",
+    "node-gyp": "^8.0.0",
+    "os": "^0.1.1",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^1.0.0",
+    "spotify-url-info": "^2.2.0",
+    "string-progressbar": "^1.0.3",
+    "youtube-sr": "^4.0.4",
+    "ytdl-core": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "InsanoDeath",
+  "license": "ISC"
+}

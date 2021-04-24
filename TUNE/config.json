@@ -1,0 +1,25 @@
+{
+  "PREFIX": "?",
+  "MAX_PLAYLIST_SIZE": 10,
+  "PRUNING": false,
+  "DEFAULT_VOLUME": 100,
+  "BOT_OWNER": "539738942346493952",
+  "discord": "https://discord.gg/g7PMK4G6Kr",
+
+  "Colors": {
+    "Bot": "#f72c2c",
+    "red": "#FF0000",
+    "green": "#008000",
+    "yellow": "#FFFF00"
+  },
+
+  "filters": {
+    "clear": "dynaudnorm=f=200",
+    "earrape": "bass=g=50",
+    "heavybass": "bass=g=20,dynaudnorm=f=200"
+  },
+
+  "premium": [
+    "807875884790579200", "723460614282018946"
+  ]
+}
